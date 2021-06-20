@@ -10,7 +10,7 @@ airflow:
   connections:
     - conn_id:
       conn_type:
-      conn_host:0.0.0.0:8080
+      conn_host:
       conn_schema:
       conn_login:
       conn_password:
