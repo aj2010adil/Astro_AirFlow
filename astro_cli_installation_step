@@ -1,0 +1,3 @@
+https://www.astronomer.io/docs/cloud/stable/develop/cli-quickstart
+curl -sSL https://install.astronomer.io | sudo bash
+
