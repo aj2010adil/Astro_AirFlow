@@ -9,5 +9,11 @@ AIRFLOW_HOME=/opt/airflow
 sudo airflow db init
 ## Now you have did Installation process now we can start with develoment process
 
+# Step to Add in git hub
+git add *
+git commit -m "msg"
+git push remote_address
+git push git@github.com:aj2010adil/Astro_AirFlow.git main
+
 #Creating DAG
 
