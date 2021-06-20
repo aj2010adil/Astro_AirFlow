@@ -1,0 +1,4 @@
+#how to acces and use postgres container
+docker exec -it container-id /bin/bash
+su postgres
+\dt
