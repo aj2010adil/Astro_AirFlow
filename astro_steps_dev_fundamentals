@@ -11,7 +11,10 @@ sudo airflow db init
 
 # Step to Add in git hub
 git add *
+git config --global user.name "Adil Jawed"
+git config --global user.email "aj2010adil@gmail.com"
 git commit -m "msg"
+
 git push remote_address
 git push git@github.com:aj2010adil/Astro_AirFlow.git main
 
