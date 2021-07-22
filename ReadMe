@@ -1,3 +1,4 @@
+# We can run below in docker play linux machine which is free to use
 curl -sSL https://install.astronomer.io | sudo bash
 mkdir astro 
 cd astro 
