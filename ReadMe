@@ -1,1 +1,10 @@
-This is for Astro Project certification 
+curl -sSL https://install.astronomer.io | sudo bash
+mkdir astro 
+cd astro 
+astro dev init
+astro dev start
+## now login to 8080 page and provide password
+sudo apt install python3-pip
+sudo pip install apache-airflow
+AIRFLOW_HOME=/opt/airflow
+sudo airflow db init
